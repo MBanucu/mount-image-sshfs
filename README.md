@@ -10,6 +10,10 @@ Disk image mounting via SSHFS (cross-platform FUSE).
 [![CI](https://img.shields.io/github/actions/workflow/status/MBanucu/mount-image-sshfs/test.yml?branch=main)](https://github.com/MBanucu/mount-image-sshfs/actions/workflows/test.yml)
 [![codecov](https://codecov.io/gh/MBanucu/mount-image-sshfs/branch/main/graph/badge.svg)](https://codecov.io/gh/MBanucu/mount-image-sshfs)
 
+[![Downloads total](https://pepy.tech/badge/mount-image-sshfs)](https://pepy.tech/project/mount-image-sshfs)
+[![Downloads/month](https://pepy.tech/badge/mount-image-sshfs/month)](https://pepy.tech/project/mount-image-sshfs)
+[![Downloads/week](https://pepy.tech/badge/mount-image-sshfs/week)](https://pepy.tech/project/mount-image-sshfs)
+
 ## Quick start
 
 ```python
